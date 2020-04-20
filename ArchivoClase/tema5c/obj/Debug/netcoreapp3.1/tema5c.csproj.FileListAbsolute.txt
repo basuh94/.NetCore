@@ -1,0 +1,11 @@
+F:\.Net\ArchivoClase\tema5c\bin\Debug\netcoreapp3.1\tema5c.exe
+F:\.Net\ArchivoClase\tema5c\bin\Debug\netcoreapp3.1\tema5c.deps.json
+F:\.Net\ArchivoClase\tema5c\bin\Debug\netcoreapp3.1\tema5c.runtimeconfig.json
+F:\.Net\ArchivoClase\tema5c\bin\Debug\netcoreapp3.1\tema5c.runtimeconfig.dev.json
+F:\.Net\ArchivoClase\tema5c\bin\Debug\netcoreapp3.1\tema5c.dll
+F:\.Net\ArchivoClase\tema5c\bin\Debug\netcoreapp3.1\tema5c.pdb
+F:\.Net\ArchivoClase\tema5c\obj\Debug\netcoreapp3.1\tema5c.csprojAssemblyReference.cache
+F:\.Net\ArchivoClase\tema5c\obj\Debug\netcoreapp3.1\tema5c.csproj.CoreCompileInputs.cache
+F:\.Net\ArchivoClase\tema5c\obj\Debug\netcoreapp3.1\tema5c.dll
+F:\.Net\ArchivoClase\tema5c\obj\Debug\netcoreapp3.1\tema5c.pdb
+F:\.Net\ArchivoClase\tema5c\obj\Debug\netcoreapp3.1\tema5c.genruntimeconfig.cache

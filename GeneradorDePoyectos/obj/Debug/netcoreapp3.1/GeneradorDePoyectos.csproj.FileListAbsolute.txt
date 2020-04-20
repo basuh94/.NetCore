@@ -1,0 +1,13 @@
+F:\.Net\GeneradorDePoyectos\bin\Debug\netcoreapp3.1\GeneradorDePoyectos.exe
+F:\.Net\GeneradorDePoyectos\bin\Debug\netcoreapp3.1\GeneradorDePoyectos.deps.json
+F:\.Net\GeneradorDePoyectos\bin\Debug\netcoreapp3.1\GeneradorDePoyectos.runtimeconfig.json
+F:\.Net\GeneradorDePoyectos\bin\Debug\netcoreapp3.1\GeneradorDePoyectos.runtimeconfig.dev.json
+F:\.Net\GeneradorDePoyectos\bin\Debug\netcoreapp3.1\GeneradorDePoyectos.dll
+F:\.Net\GeneradorDePoyectos\bin\Debug\netcoreapp3.1\GeneradorDePoyectos.pdb
+F:\.Net\GeneradorDePoyectos\obj\Debug\netcoreapp3.1\GeneradorDePoyectos.csprojAssemblyReference.cache
+F:\.Net\GeneradorDePoyectos\obj\Debug\netcoreapp3.1\GeneradorDePoyectos.csproj.CoreCompileInputs.cache
+F:\.Net\GeneradorDePoyectos\obj\Debug\netcoreapp3.1\GeneradorDePoyectos.AssemblyInfoInputs.cache
+F:\.Net\GeneradorDePoyectos\obj\Debug\netcoreapp3.1\GeneradorDePoyectos.AssemblyInfo.cs
+F:\.Net\GeneradorDePoyectos\obj\Debug\netcoreapp3.1\GeneradorDePoyectos.dll
+F:\.Net\GeneradorDePoyectos\obj\Debug\netcoreapp3.1\GeneradorDePoyectos.pdb
+F:\.Net\GeneradorDePoyectos\obj\Debug\netcoreapp3.1\GeneradorDePoyectos.genruntimeconfig.cache

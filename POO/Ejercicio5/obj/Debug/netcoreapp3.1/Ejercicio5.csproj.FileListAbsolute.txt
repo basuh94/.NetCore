@@ -1,0 +1,13 @@
+F:\.Net\POO\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.exe
+F:\.Net\POO\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.deps.json
+F:\.Net\POO\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.json
+F:\.Net\POO\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.dev.json
+F:\.Net\POO\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.dll
+F:\.Net\POO\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.pdb
+F:\.Net\POO\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csprojAssemblyReference.cache
+F:\.Net\POO\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.CoreCompileInputs.cache
+F:\.Net\POO\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfoInputs.cache
+F:\.Net\POO\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfo.cs
+F:\.Net\POO\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.dll
+F:\.Net\POO\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.pdb
+F:\.Net\POO\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.genruntimeconfig.cache

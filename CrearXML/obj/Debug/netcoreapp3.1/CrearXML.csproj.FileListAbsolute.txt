@@ -1,0 +1,11 @@
+F:\.Net\CrearXML\bin\Debug\netcoreapp3.1\CrearXML.exe
+F:\.Net\CrearXML\bin\Debug\netcoreapp3.1\CrearXML.deps.json
+F:\.Net\CrearXML\bin\Debug\netcoreapp3.1\CrearXML.runtimeconfig.json
+F:\.Net\CrearXML\bin\Debug\netcoreapp3.1\CrearXML.runtimeconfig.dev.json
+F:\.Net\CrearXML\bin\Debug\netcoreapp3.1\CrearXML.dll
+F:\.Net\CrearXML\bin\Debug\netcoreapp3.1\CrearXML.pdb
+F:\.Net\CrearXML\obj\Debug\netcoreapp3.1\CrearXML.csprojAssemblyReference.cache
+F:\.Net\CrearXML\obj\Debug\netcoreapp3.1\CrearXML.csproj.CoreCompileInputs.cache
+F:\.Net\CrearXML\obj\Debug\netcoreapp3.1\CrearXML.dll
+F:\.Net\CrearXML\obj\Debug\netcoreapp3.1\CrearXML.pdb
+F:\.Net\CrearXML\obj\Debug\netcoreapp3.1\CrearXML.genruntimeconfig.cache

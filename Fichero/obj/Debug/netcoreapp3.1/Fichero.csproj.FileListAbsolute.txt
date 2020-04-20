@@ -1,0 +1,13 @@
+F:\.Net\Fichero\bin\Debug\netcoreapp3.1\Fichero.exe
+F:\.Net\Fichero\bin\Debug\netcoreapp3.1\Fichero.deps.json
+F:\.Net\Fichero\bin\Debug\netcoreapp3.1\Fichero.runtimeconfig.json
+F:\.Net\Fichero\bin\Debug\netcoreapp3.1\Fichero.runtimeconfig.dev.json
+F:\.Net\Fichero\bin\Debug\netcoreapp3.1\Fichero.dll
+F:\.Net\Fichero\bin\Debug\netcoreapp3.1\Fichero.pdb
+F:\.Net\Fichero\obj\Debug\netcoreapp3.1\Fichero.csprojAssemblyReference.cache
+F:\.Net\Fichero\obj\Debug\netcoreapp3.1\Fichero.csproj.CoreCompileInputs.cache
+F:\.Net\Fichero\obj\Debug\netcoreapp3.1\Fichero.AssemblyInfoInputs.cache
+F:\.Net\Fichero\obj\Debug\netcoreapp3.1\Fichero.AssemblyInfo.cs
+F:\.Net\Fichero\obj\Debug\netcoreapp3.1\Fichero.dll
+F:\.Net\Fichero\obj\Debug\netcoreapp3.1\Fichero.pdb
+F:\.Net\Fichero\obj\Debug\netcoreapp3.1\Fichero.genruntimeconfig.cache

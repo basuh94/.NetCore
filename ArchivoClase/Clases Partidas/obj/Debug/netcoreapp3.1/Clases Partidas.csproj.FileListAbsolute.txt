@@ -1,0 +1,13 @@
+F:\.Net\ArchivoClase\Clases Partidas\bin\Debug\netcoreapp3.1\Clases Partidas.exe
+F:\.Net\ArchivoClase\Clases Partidas\bin\Debug\netcoreapp3.1\Clases Partidas.deps.json
+F:\.Net\ArchivoClase\Clases Partidas\bin\Debug\netcoreapp3.1\Clases Partidas.runtimeconfig.json
+F:\.Net\ArchivoClase\Clases Partidas\bin\Debug\netcoreapp3.1\Clases Partidas.runtimeconfig.dev.json
+F:\.Net\ArchivoClase\Clases Partidas\bin\Debug\netcoreapp3.1\Clases Partidas.dll
+F:\.Net\ArchivoClase\Clases Partidas\bin\Debug\netcoreapp3.1\Clases Partidas.pdb
+F:\.Net\ArchivoClase\Clases Partidas\obj\Debug\netcoreapp3.1\Clases Partidas.csprojAssemblyReference.cache
+F:\.Net\ArchivoClase\Clases Partidas\obj\Debug\netcoreapp3.1\Clases Partidas.csproj.CoreCompileInputs.cache
+F:\.Net\ArchivoClase\Clases Partidas\obj\Debug\netcoreapp3.1\Clases Partidas.AssemblyInfoInputs.cache
+F:\.Net\ArchivoClase\Clases Partidas\obj\Debug\netcoreapp3.1\Clases Partidas.AssemblyInfo.cs
+F:\.Net\ArchivoClase\Clases Partidas\obj\Debug\netcoreapp3.1\Clases Partidas.dll
+F:\.Net\ArchivoClase\Clases Partidas\obj\Debug\netcoreapp3.1\Clases Partidas.pdb
+F:\.Net\ArchivoClase\Clases Partidas\obj\Debug\netcoreapp3.1\Clases Partidas.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEbxFZ6kqOAlmnLci2a7EtGyxoNau+UXaaZDiI50lkFU8Q6BA+IvoP72g7nl4jbFHDRQaVj2BVuokuM80kWJXg==",
+  "success": true,
+  "projectFilePath": "F:\\.Net\\ArchivoClase\\CuboClases\\calculos\\calculos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BASUH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BASUH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

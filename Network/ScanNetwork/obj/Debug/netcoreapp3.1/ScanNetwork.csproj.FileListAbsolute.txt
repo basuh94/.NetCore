@@ -1,0 +1,13 @@
+F:\.Net\Network\ScanNetwork\bin\Debug\netcoreapp3.1\ScanNetwork.exe
+F:\.Net\Network\ScanNetwork\bin\Debug\netcoreapp3.1\ScanNetwork.deps.json
+F:\.Net\Network\ScanNetwork\bin\Debug\netcoreapp3.1\ScanNetwork.runtimeconfig.json
+F:\.Net\Network\ScanNetwork\bin\Debug\netcoreapp3.1\ScanNetwork.runtimeconfig.dev.json
+F:\.Net\Network\ScanNetwork\bin\Debug\netcoreapp3.1\ScanNetwork.dll
+F:\.Net\Network\ScanNetwork\bin\Debug\netcoreapp3.1\ScanNetwork.pdb
+F:\.Net\Network\ScanNetwork\obj\Debug\netcoreapp3.1\ScanNetwork.csprojAssemblyReference.cache
+F:\.Net\Network\ScanNetwork\obj\Debug\netcoreapp3.1\ScanNetwork.csproj.CoreCompileInputs.cache
+F:\.Net\Network\ScanNetwork\obj\Debug\netcoreapp3.1\ScanNetwork.AssemblyInfoInputs.cache
+F:\.Net\Network\ScanNetwork\obj\Debug\netcoreapp3.1\ScanNetwork.AssemblyInfo.cs
+F:\.Net\Network\ScanNetwork\obj\Debug\netcoreapp3.1\ScanNetwork.dll
+F:\.Net\Network\ScanNetwork\obj\Debug\netcoreapp3.1\ScanNetwork.pdb
+F:\.Net\Network\ScanNetwork\obj\Debug\netcoreapp3.1\ScanNetwork.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\.Net\ArchivoClase\SobreCargaClases\bin\Debug\netcoreapp3.1\SobreCargaClases.exe
+F:\.Net\ArchivoClase\SobreCargaClases\bin\Debug\netcoreapp3.1\SobreCargaClases.deps.json
+F:\.Net\ArchivoClase\SobreCargaClases\bin\Debug\netcoreapp3.1\SobreCargaClases.runtimeconfig.json
+F:\.Net\ArchivoClase\SobreCargaClases\bin\Debug\netcoreapp3.1\SobreCargaClases.runtimeconfig.dev.json
+F:\.Net\ArchivoClase\SobreCargaClases\bin\Debug\netcoreapp3.1\SobreCargaClases.dll
+F:\.Net\ArchivoClase\SobreCargaClases\bin\Debug\netcoreapp3.1\SobreCargaClases.pdb
+F:\.Net\ArchivoClase\SobreCargaClases\obj\Debug\netcoreapp3.1\SobreCargaClases.csprojAssemblyReference.cache
+F:\.Net\ArchivoClase\SobreCargaClases\obj\Debug\netcoreapp3.1\SobreCargaClases.csproj.CoreCompileInputs.cache
+F:\.Net\ArchivoClase\SobreCargaClases\obj\Debug\netcoreapp3.1\SobreCargaClases.AssemblyInfoInputs.cache
+F:\.Net\ArchivoClase\SobreCargaClases\obj\Debug\netcoreapp3.1\SobreCargaClases.AssemblyInfo.cs
+F:\.Net\ArchivoClase\SobreCargaClases\obj\Debug\netcoreapp3.1\SobreCargaClases.dll
+F:\.Net\ArchivoClase\SobreCargaClases\obj\Debug\netcoreapp3.1\SobreCargaClases.pdb
+F:\.Net\ArchivoClase\SobreCargaClases\obj\Debug\netcoreapp3.1\SobreCargaClases.genruntimeconfig.cache

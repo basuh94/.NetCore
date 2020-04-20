@@ -1,0 +1,13 @@
+F:\.Net\FicheroBinari\bin\Debug\netcoreapp3.1\FicheroBinari.exe
+F:\.Net\FicheroBinari\bin\Debug\netcoreapp3.1\FicheroBinari.deps.json
+F:\.Net\FicheroBinari\bin\Debug\netcoreapp3.1\FicheroBinari.runtimeconfig.json
+F:\.Net\FicheroBinari\bin\Debug\netcoreapp3.1\FicheroBinari.runtimeconfig.dev.json
+F:\.Net\FicheroBinari\bin\Debug\netcoreapp3.1\FicheroBinari.dll
+F:\.Net\FicheroBinari\bin\Debug\netcoreapp3.1\FicheroBinari.pdb
+F:\.Net\FicheroBinari\obj\Debug\netcoreapp3.1\FicheroBinari.csprojAssemblyReference.cache
+F:\.Net\FicheroBinari\obj\Debug\netcoreapp3.1\FicheroBinari.csproj.CoreCompileInputs.cache
+F:\.Net\FicheroBinari\obj\Debug\netcoreapp3.1\FicheroBinari.AssemblyInfoInputs.cache
+F:\.Net\FicheroBinari\obj\Debug\netcoreapp3.1\FicheroBinari.AssemblyInfo.cs
+F:\.Net\FicheroBinari\obj\Debug\netcoreapp3.1\FicheroBinari.dll
+F:\.Net\FicheroBinari\obj\Debug\netcoreapp3.1\FicheroBinari.pdb
+F:\.Net\FicheroBinari\obj\Debug\netcoreapp3.1\FicheroBinari.genruntimeconfig.cache

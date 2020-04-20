@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhouGTLevQwcbsZ0GQOK/f7EkbmvsLESfKylTq3lgWUSP76AAD9dXU2bi2ktsZLgR97OnIcjCku1u7xOBnZLAQ==",
+  "success": true,
+  "projectFilePath": "F:\\.Net\\ArchivoClase\\tema5c\\classlib\\classlib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BASUH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BASUH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

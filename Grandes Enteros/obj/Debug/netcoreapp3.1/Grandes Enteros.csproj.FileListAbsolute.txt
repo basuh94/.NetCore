@@ -1,0 +1,13 @@
+F:\.Net\Grandes Enteros\bin\Debug\netcoreapp3.1\Grandes Enteros.exe
+F:\.Net\Grandes Enteros\bin\Debug\netcoreapp3.1\Grandes Enteros.deps.json
+F:\.Net\Grandes Enteros\bin\Debug\netcoreapp3.1\Grandes Enteros.runtimeconfig.json
+F:\.Net\Grandes Enteros\bin\Debug\netcoreapp3.1\Grandes Enteros.runtimeconfig.dev.json
+F:\.Net\Grandes Enteros\bin\Debug\netcoreapp3.1\Grandes Enteros.dll
+F:\.Net\Grandes Enteros\bin\Debug\netcoreapp3.1\Grandes Enteros.pdb
+F:\.Net\Grandes Enteros\obj\Debug\netcoreapp3.1\Grandes Enteros.csprojAssemblyReference.cache
+F:\.Net\Grandes Enteros\obj\Debug\netcoreapp3.1\Grandes Enteros.csproj.CoreCompileInputs.cache
+F:\.Net\Grandes Enteros\obj\Debug\netcoreapp3.1\Grandes Enteros.AssemblyInfoInputs.cache
+F:\.Net\Grandes Enteros\obj\Debug\netcoreapp3.1\Grandes Enteros.AssemblyInfo.cs
+F:\.Net\Grandes Enteros\obj\Debug\netcoreapp3.1\Grandes Enteros.dll
+F:\.Net\Grandes Enteros\obj\Debug\netcoreapp3.1\Grandes Enteros.pdb
+F:\.Net\Grandes Enteros\obj\Debug\netcoreapp3.1\Grandes Enteros.genruntimeconfig.cache

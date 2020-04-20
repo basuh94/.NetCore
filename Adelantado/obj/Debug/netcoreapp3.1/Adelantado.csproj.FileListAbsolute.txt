@@ -1,0 +1,13 @@
+F:\.Net\Adelantado\bin\Debug\netcoreapp3.1\Adelantado.exe
+F:\.Net\Adelantado\bin\Debug\netcoreapp3.1\Adelantado.deps.json
+F:\.Net\Adelantado\bin\Debug\netcoreapp3.1\Adelantado.runtimeconfig.json
+F:\.Net\Adelantado\bin\Debug\netcoreapp3.1\Adelantado.runtimeconfig.dev.json
+F:\.Net\Adelantado\bin\Debug\netcoreapp3.1\Adelantado.dll
+F:\.Net\Adelantado\bin\Debug\netcoreapp3.1\Adelantado.pdb
+F:\.Net\Adelantado\obj\Debug\netcoreapp3.1\Adelantado.csprojAssemblyReference.cache
+F:\.Net\Adelantado\obj\Debug\netcoreapp3.1\Adelantado.csproj.CoreCompileInputs.cache
+F:\.Net\Adelantado\obj\Debug\netcoreapp3.1\Adelantado.AssemblyInfoInputs.cache
+F:\.Net\Adelantado\obj\Debug\netcoreapp3.1\Adelantado.AssemblyInfo.cs
+F:\.Net\Adelantado\obj\Debug\netcoreapp3.1\Adelantado.dll
+F:\.Net\Adelantado\obj\Debug\netcoreapp3.1\Adelantado.pdb
+F:\.Net\Adelantado\obj\Debug\netcoreapp3.1\Adelantado.genruntimeconfig.cache

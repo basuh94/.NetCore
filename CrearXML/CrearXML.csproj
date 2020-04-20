@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo> <!--Eliminar error por pantalla 
+                                                        "error CS0579: Atributo 'System.Reflection.AssemblyVersionAttribute' duplicado"-->
+  </PropertyGroup>
+
+</Project>

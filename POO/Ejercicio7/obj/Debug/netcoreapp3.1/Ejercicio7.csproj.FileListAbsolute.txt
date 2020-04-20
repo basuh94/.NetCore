@@ -1,0 +1,13 @@
+F:\.Net\POO\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csprojAssemblyReference.cache
+F:\.Net\POO\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csproj.CoreCompileInputs.cache
+F:\.Net\POO\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfoInputs.cache
+F:\.Net\POO\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfo.cs
+F:\.Net\POO\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.exe
+F:\.Net\POO\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.deps.json
+F:\.Net\POO\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.json
+F:\.Net\POO\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.dev.json
+F:\.Net\POO\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.dll
+F:\.Net\POO\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.pdb
+F:\.Net\POO\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.dll
+F:\.Net\POO\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.pdb
+F:\.Net\POO\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.genruntimeconfig.cache

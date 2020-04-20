@@ -1,0 +1,13 @@
+F:\.Net\ArchivoClase\CuboClases\bin\Debug\netcoreapp3.1\CuboClases.exe
+F:\.Net\ArchivoClase\CuboClases\bin\Debug\netcoreapp3.1\CuboClases.deps.json
+F:\.Net\ArchivoClase\CuboClases\bin\Debug\netcoreapp3.1\CuboClases.runtimeconfig.json
+F:\.Net\ArchivoClase\CuboClases\bin\Debug\netcoreapp3.1\CuboClases.runtimeconfig.dev.json
+F:\.Net\ArchivoClase\CuboClases\bin\Debug\netcoreapp3.1\CuboClases.dll
+F:\.Net\ArchivoClase\CuboClases\bin\Debug\netcoreapp3.1\CuboClases.pdb
+F:\.Net\ArchivoClase\CuboClases\obj\Debug\netcoreapp3.1\CuboClases.csprojAssemblyReference.cache
+F:\.Net\ArchivoClase\CuboClases\obj\Debug\netcoreapp3.1\CuboClases.csproj.CoreCompileInputs.cache
+F:\.Net\ArchivoClase\CuboClases\obj\Debug\netcoreapp3.1\CuboClases.AssemblyInfoInputs.cache
+F:\.Net\ArchivoClase\CuboClases\obj\Debug\netcoreapp3.1\CuboClases.AssemblyInfo.cs
+F:\.Net\ArchivoClase\CuboClases\obj\Debug\netcoreapp3.1\CuboClases.dll
+F:\.Net\ArchivoClase\CuboClases\obj\Debug\netcoreapp3.1\CuboClases.pdb
+F:\.Net\ArchivoClase\CuboClases\obj\Debug\netcoreapp3.1\CuboClases.genruntimeconfig.cache
