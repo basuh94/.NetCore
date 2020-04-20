@@ -1,0 +1,11 @@
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\bin\Debug\netcoreapp3.1\ProgramaEjemplo01.exe
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\bin\Debug\netcoreapp3.1\ProgramaEjemplo01.deps.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\bin\Debug\netcoreapp3.1\ProgramaEjemplo01.runtimeconfig.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\bin\Debug\netcoreapp3.1\ProgramaEjemplo01.runtimeconfig.dev.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\bin\Debug\netcoreapp3.1\ProgramaEjemplo01.dll
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\bin\Debug\netcoreapp3.1\ProgramaEjemplo01.pdb
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\obj\Debug\netcoreapp3.1\ProgramaEjemplo01.csprojAssemblyReference.cache
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\obj\Debug\netcoreapp3.1\ProgramaEjemplo01.AssemblyInfoInputs.cache
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\obj\Debug\netcoreapp3.1\ProgramaEjemplo01.AssemblyInfo.cs
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\obj\Debug\netcoreapp3.1\ProgramaEjemplo01.dll
+C:\Users\pramos.BSW\Desktop\Curso.Net\ProgramaEjemplo01\obj\Debug\netcoreapp3.1\ProgramaEjemplo01.pdb

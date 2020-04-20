@@ -1,0 +1,11 @@
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\bin\Debug\netcoreapp3.1\Vetana.exe
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\bin\Debug\netcoreapp3.1\Vetana.deps.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\bin\Debug\netcoreapp3.1\Vetana.runtimeconfig.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\bin\Debug\netcoreapp3.1\Vetana.runtimeconfig.dev.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\bin\Debug\netcoreapp3.1\Vetana.dll
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\bin\Debug\netcoreapp3.1\Vetana.pdb
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\obj\Debug\netcoreapp3.1\Vetana.csprojAssemblyReference.cache
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\obj\Debug\netcoreapp3.1\Vetana.AssemblyInfoInputs.cache
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\obj\Debug\netcoreapp3.1\Vetana.AssemblyInfo.cs
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\obj\Debug\netcoreapp3.1\Vetana.dll
+C:\Users\pramos.BSW\Desktop\Curso.Net\Vetana\obj\Debug\netcoreapp3.1\Vetana.pdb

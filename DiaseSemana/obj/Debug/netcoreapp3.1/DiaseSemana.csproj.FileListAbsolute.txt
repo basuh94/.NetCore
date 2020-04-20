@@ -1,0 +1,11 @@
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\bin\Debug\netcoreapp3.1\DiaseSemana.exe
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\bin\Debug\netcoreapp3.1\DiaseSemana.deps.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\bin\Debug\netcoreapp3.1\DiaseSemana.runtimeconfig.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\bin\Debug\netcoreapp3.1\DiaseSemana.runtimeconfig.dev.json
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\bin\Debug\netcoreapp3.1\DiaseSemana.dll
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\bin\Debug\netcoreapp3.1\DiaseSemana.pdb
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\obj\Debug\netcoreapp3.1\DiaseSemana.csprojAssemblyReference.cache
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\obj\Debug\netcoreapp3.1\DiaseSemana.AssemblyInfoInputs.cache
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\obj\Debug\netcoreapp3.1\DiaseSemana.AssemblyInfo.cs
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\obj\Debug\netcoreapp3.1\DiaseSemana.dll
+C:\Users\pramos.BSW\Desktop\Curso.Net\DiaseSemana\obj\Debug\netcoreapp3.1\DiaseSemana.pdb
