@@ -1,0 +1,13 @@
+F:\.NetCore\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.csprojAssemblyReference.cache
+F:\.NetCore\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.csproj.CoreCompileInputs.cache
+F:\.NetCore\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.AssemblyInfoInputs.cache
+F:\.NetCore\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.AssemblyInfo.cs
+F:\.NetCore\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.exe
+F:\.NetCore\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.deps.json
+F:\.NetCore\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.runtimeconfig.json
+F:\.NetCore\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.runtimeconfig.dev.json
+F:\.NetCore\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.dll
+F:\.NetCore\PortScanner\bin\Debug\netcoreapp3.1\PortScanner.pdb
+F:\.NetCore\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.dll
+F:\.NetCore\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.pdb
+F:\.NetCore\PortScanner\obj\Debug\netcoreapp3.1\PortScanner.genruntimeconfig.cache
