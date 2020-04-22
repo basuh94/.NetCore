@@ -10,38 +10,35 @@ namespace PortScanner
 {
     class PortTCP
     {
-        static void TcpConnect(string host, int portStart, int portStop){
-            int Port;
-            
-            for (Port = portStart ; Port <= portStop; Port++)
-            {
-                TcpClient tcp = new TcpClient();
-                try{
-                    tcp.Connect(host, Port); 
-                    WriteLine($"The port {Port} is active");
-                    tcp.Close();
-                }catch{
-                    //WriteLine(e.Message);
-                }  
-            }    
+        static void TcpConnect(string Host, int Port){
+            TcpClient tcp = new TcpClient();
+            try{
+                tcp.Connect(Host, Port); 
+                WriteLine($"The port {Port} is active");
+                tcp.Close();
+            }catch{
+                //WriteLine(e.Message);
+                //WriteLine($"The port {Port} is close");
+                }      
         }
         static void Main(string[] args)
         {
             string Host = "216.30.196.132";
-            int PortStart = 22;
+            int PortStart = 1;
             int PortStop = 65535;
-            int NumThread =200;
+           
                
-            void run(){
-                TcpConnect(Host,PortStart,PortStop);
+            void start(string host, int PortStart, int PortStop){
+                for (int Port = PortStart; Port <= PortStop; Port++)
+                {
+                    Thread hilo = new Thread(()=>TcpConnect(host, Port));
+                    hilo.Start();
+                    //hilo.Join();  
+                } 
+                WriteLine("DONE!"); 
+             
             }
-            
-            void start(int numThread){
-                ThreadStart delegadoth = new ThreadStart(run);
-                Thread hilo = new Thread(delegadoth);
-                hilo.Start();
-            }
-            start(NumThread);
+            start(Host, PortStart, PortStop);
         }
     }
 }

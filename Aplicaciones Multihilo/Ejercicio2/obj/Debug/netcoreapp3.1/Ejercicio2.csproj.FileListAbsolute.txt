@@ -1,0 +1,13 @@
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.exe
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.deps.json
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.json
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.dev.json
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.dll
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.pdb
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csprojAssemblyReference.cache
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.CoreCompileInputs.cache
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfoInputs.cache
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfo.cs
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.dll
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.pdb
+F:\.NetCore\Aplicaciones Multihilo\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.genruntimeconfig.cache
