@@ -1,0 +1,13 @@
+F:\.NetCore\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+F:\.NetCore\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+F:\.NetCore\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+F:\.NetCore\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+F:\.NetCore\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+F:\.NetCore\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+F:\.NetCore\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+F:\.NetCore\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+F:\.NetCore\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+F:\.NetCore\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+F:\.NetCore\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+F:\.NetCore\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+F:\.NetCore\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache
