@@ -7,6 +7,10 @@ namespace EFCore{
 
         public DbSet<Category> Categories{get; set;}
         public DbSet<Product> Products{get; set;}
+        public DbSet<Territories> Territories{get; set;}
+        public DbSet<Regions> Regions{get; set;}
+        public virtual DbSet<Employees> Employees { get; set; }
+        public virtual DbSet<EmployeesTerritories> EmployeesTerritories { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
             string ruta = @"C:\SQLite\Northwind.db";

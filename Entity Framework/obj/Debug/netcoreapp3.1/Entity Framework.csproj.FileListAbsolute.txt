@@ -1,0 +1,52 @@
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.exe
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.deps.json
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.runtimeconfig.json
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.runtimeconfig.dev.json
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Entity Framework.pdb
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\.NetCore\Entity Framework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\.NetCore\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.csprojAssemblyReference.cache
+F:\.NetCore\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.csproj.CoreCompileInputs.cache
+F:\.NetCore\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.AssemblyInfoInputs.cache
+F:\.NetCore\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.AssemblyInfo.cs
+F:\.NetCore\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.csproj.CopyComplete
+F:\.NetCore\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.dll
+F:\.NetCore\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.pdb
+F:\.NetCore\Entity Framework\obj\Debug\netcoreapp3.1\Entity Framework.genruntimeconfig.cache
