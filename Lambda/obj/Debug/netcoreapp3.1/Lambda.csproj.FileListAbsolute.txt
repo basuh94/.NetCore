@@ -1,0 +1,13 @@
+F:\.NetCore\Lambda\bin\Debug\netcoreapp3.1\Lambda.exe
+F:\.NetCore\Lambda\bin\Debug\netcoreapp3.1\Lambda.deps.json
+F:\.NetCore\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.json
+F:\.NetCore\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.dev.json
+F:\.NetCore\Lambda\bin\Debug\netcoreapp3.1\Lambda.dll
+F:\.NetCore\Lambda\bin\Debug\netcoreapp3.1\Lambda.pdb
+F:\.NetCore\Lambda\obj\Debug\netcoreapp3.1\Lambda.csprojAssemblyReference.cache
+F:\.NetCore\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.CoreCompileInputs.cache
+F:\.NetCore\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfoInputs.cache
+F:\.NetCore\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfo.cs
+F:\.NetCore\Lambda\obj\Debug\netcoreapp3.1\Lambda.dll
+F:\.NetCore\Lambda\obj\Debug\netcoreapp3.1\Lambda.pdb
+F:\.NetCore\Lambda\obj\Debug\netcoreapp3.1\Lambda.genruntimeconfig.cache
