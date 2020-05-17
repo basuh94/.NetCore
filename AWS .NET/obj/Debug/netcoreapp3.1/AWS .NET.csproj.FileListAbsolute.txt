@@ -1,0 +1,46 @@
+F:\.NetCore\AWS .NET\obj\Debug\netcoreapp3.1\AWS .NET.csprojAssemblyReference.cache
+F:\.NetCore\AWS .NET\obj\Debug\netcoreapp3.1\AWS .NET.csproj.CoreCompileInputs.cache
+F:\.NetCore\AWS .NET\obj\Debug\netcoreapp3.1\AWS .NET.AssemblyInfoInputs.cache
+F:\.NetCore\AWS .NET\obj\Debug\netcoreapp3.1\AWS .NET.AssemblyInfo.cs
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\AWS .NET.exe
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\AWS .NET.deps.json
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\AWS .NET.runtimeconfig.json
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\AWS .NET.runtimeconfig.dev.json
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\AWS .NET.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\AWS .NET.pdb
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NetCore\AWS .NET\obj\Debug\netcoreapp3.1\AWS .NET.csproj.CopyComplete
+F:\.NetCore\AWS .NET\obj\Debug\netcoreapp3.1\AWS .NET.dll
+F:\.NetCore\AWS .NET\obj\Debug\netcoreapp3.1\AWS .NET.pdb
+F:\.NetCore\AWS .NET\obj\Debug\netcoreapp3.1\AWS .NET.genruntimeconfig.cache
+F:\.NetCore\AWS .NET\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
