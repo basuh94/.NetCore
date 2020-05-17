@@ -35,12 +35,78 @@ namespace Entity_Framework
                     
                 }
             }
-        }        
+        }  
+
+        static void QueryClienUSA(){
+            
+            using (NorthwindContext db = new NorthwindContext()){
+                var Query = db.Customers.Where(o => o.Country == "USA").ToList();
+                foreach (var c in Query){
+                    WriteLine($"Cliente: {c.ContactName.Trim()}  Pais: {c.Country.Trim()}");
+                }
+            }
+        }
+
+        static void EmpleadoCodigo(){
+
+            using (NorthwindContext db = new NorthwindContext()){
+            var Query = db.Employees.Where(o => o.EmployeeId == 3 || o.EmployeeId == 5 || o.EmployeeId == 8 ).ToList();
+            foreach (var c in Query){
+                    WriteLine($"iD: {c.EmployeeId} Nombre: {c.LastName.Trim()}  Apellido: {c.FirstName.Trim()}");
+                }
+            }
+        }
+
+        static void QueryProBer(){
+
+            using (NorthwindContext db = new NorthwindContext()){
+            var Query = db.Suppliers.Where(o => o.City == "Berlin").ToList();
+            foreach (var c in Query){
+                    WriteLine($"Nombre: {c.ContactName.Trim()}  Ciudad: {c.City.Trim()}");
+                }
+            }
+        }
+
+        static void ProductMayID(){
+
+            using (NorthwindContext db = new NorthwindContext()){
+            var Query = db.Products.Where(o => o.UnitsInStock > 0  || o.SupplierId == 1 || o.SupplierId == 3 || o.SupplierId == 5 ).ToList();
+            foreach (var c in Query){
+                    WriteLine($"Nombre Producto: {c.ProductName.Trim()}");
+                }
+            }
+        }
+
+        static void ProducPrecio(){
+
+            using (NorthwindContext db = new NorthwindContext()){
+            var Query = db.Products.Where(o => o.UnitPrice >= 0  || o.UnitPrice <= 90 ).ToList();
+            foreach (var c in Query){
+                    WriteLine($"Nombre Producto: {c.ProductName.Trim()} Precio:{c.UnitPrice}");
+                }
+            }
+        }            
       
         static void Main(string[] args)
         {
             Clear();
-            QueryEmpleados();
+            //QueryEmpleados();
+
+            WriteLine("------------------------EJERCICIO1---------------------------");
+            QueryClienUSA();
+
+            WriteLine("------------------------EJERCICIO2---------------------------");
+            EmpleadoCodigo();
+
+            WriteLine("------------------------EJERCICIO3---------------------------");
+            QueryProBer();
+
+            WriteLine("------------------------EJERCICIO4---------------------------");
+            ProductMayID();
+
+            WriteLine("------------------------EJERCICIO5---------------------------");
+            ProducPrecio();
+
         }
     }
 }

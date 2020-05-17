@@ -25,8 +25,8 @@ namespace Entity_Framework
         [Column(TypeName = "nvarchar(20)")]
         public string QuantityPerUnit { get; set; }
         [Column(TypeName = "money")]
-        public byte[] UnitPrice { get; set; }
-        [Column(TypeName = "smallint")]
+        public double? UnitPrice { get; set; }
+        [Column(TypeName = "double")]
         public long? UnitsInStock { get; set; }
         [Column(TypeName = "smallint")]
         public long? UnitsOnOrder { get; set; }

@@ -24,7 +24,7 @@ namespace Entity_Framework
         [Column(TypeName = "datetime")]
         public byte[] RequiredDate { get; set; }
         [Column(TypeName = "datetime")]
-        public byte[] ShippedDate { get; set; }
+        public DateTime ShippedDate { get; set; }
         [Column(TypeName = "money")]
         public byte[] Freight { get; set; }
         [Column(TypeName = "nvarchar(40)")]
