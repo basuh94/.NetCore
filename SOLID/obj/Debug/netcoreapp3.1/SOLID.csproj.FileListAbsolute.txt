@@ -1,0 +1,13 @@
+F:\.NetCore\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+F:\.NetCore\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+F:\.NetCore\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+F:\.NetCore\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+F:\.NetCore\SOLID\bin\Debug\netcoreapp3.1\SOLID.exe
+F:\.NetCore\SOLID\bin\Debug\netcoreapp3.1\SOLID.deps.json
+F:\.NetCore\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.json
+F:\.NetCore\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.dev.json
+F:\.NetCore\SOLID\bin\Debug\netcoreapp3.1\SOLID.dll
+F:\.NetCore\SOLID\bin\Debug\netcoreapp3.1\SOLID.pdb
+F:\.NetCore\SOLID\obj\Debug\netcoreapp3.1\SOLID.dll
+F:\.NetCore\SOLID\obj\Debug\netcoreapp3.1\SOLID.pdb
+F:\.NetCore\SOLID\obj\Debug\netcoreapp3.1\SOLID.genruntimeconfig.cache
